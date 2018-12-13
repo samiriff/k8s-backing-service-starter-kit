@@ -1,0 +1,3 @@
+version: "1"
+domain: sap.com
+repo: github.com/samiriff/mongodb-k8s-backing-service
